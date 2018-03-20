@@ -7,6 +7,6 @@ title: gh-pages example
 
 ## News
 * Researcher X joined the project
-*  
+* Another player has entered the game! 
 
 ## Past workshops

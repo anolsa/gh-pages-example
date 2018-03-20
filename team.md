@@ -7,7 +7,7 @@ permalink: /team/
 
 
 ### Researcher 1
-Some text that describes me lorem ipsum ipsum lorem.
+Okay so let me add some text here
 
 ### Researcher 2
 Some text that describes me lorem ipsum ipsum lorem.
